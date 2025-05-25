@@ -1,5 +1,8 @@
 # nahida(genshin impact)
 
+> ⚠️ **Warning:** This theme is currently **not working**.
+
+
 ## Install
 - BetterDiscord: `%appdata%\betterdiscord\themes`
 - Vencord: `%appdata%\vencord\themes`
